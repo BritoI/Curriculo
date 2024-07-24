@@ -20,4 +20,3 @@
     - Momentos em família
     - Assistir séries
     - Amo animais
-      
