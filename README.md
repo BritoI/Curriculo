@@ -12,7 +12,7 @@
   - Certificações 
     - 2024  Pacote Windows MICROWAY
     - 2024  Python SENAI
-    -  2024  Privasidade e Proteção de DADOS (LGPD)  SENAI
+    -  2024  Privacidade e Proteção de dados(LGPD)  SENAI
  - Habilidades 
    - Instalações de Sistemas Operacionais(windows, LINUX)
  - Hobbies e interesse
