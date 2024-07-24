@@ -20,7 +20,7 @@
  - Habilidades 
    - Instalações de Sistemas Operacionais(windows, LINUX)
  - Hobbies e interesse
-   -Caminhadas e trilhas
+    - Caminhadas e trilhas
    -Momentos em família
    -Assistir séries
    -Amo animais
