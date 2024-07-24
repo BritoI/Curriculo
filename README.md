@@ -11,7 +11,7 @@
           - Distribuição de alimentos
   - Certificações 
     - 2024  Pacote Windows MICROWAY
-    - 2024  Payton SENAI
+    - 2024  Python SENAI
     -  2024  Privasidade e Proteção de DADOS (LGPD)  SENAI
  - Habilidades 
    - Instalações de Sistemas Operacionais(windows, LINUX)
