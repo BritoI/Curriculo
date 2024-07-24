@@ -4,7 +4,7 @@
    -isabelasouzabrito6@gmail.com
                                                         
 
- -Estou em busca da minha primeira oportunidade de trabalho. Estou disponível para auxiliar nas necessidades diárias da empresa.
+ -Estou em busca da minha primeira oportunidade de trabalho e disponível para auxiliar nas necessidades diárias da empresa.
  
  - Cargo voluntário
    - 2024  Feira Livre ~ Igreja
