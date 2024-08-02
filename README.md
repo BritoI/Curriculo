@@ -15,6 +15,7 @@
     -  2024  Privacidade e Proteção de dados(LGPD)  SENAI
  - Habilidades 
    - Instalações de Sistemas Operacionais(windows, LINUX)
+   - Trabalho com vendas de derivados de leie
  - Hobbies e interesse
     - Caminhadas e trilhas
     - Momentos em família
